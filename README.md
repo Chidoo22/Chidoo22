@@ -6,23 +6,23 @@ I'm an Informatics graduate with **2+ years of business operations experience**,
 
 ---
 
-### 🎯 About Me
+### About Me
 
-- 💼 **Current Role:** Senior Customer Service Agent at Foundever Poland (Oura Ring), where I:
+- **Current Role:** Senior Customer Service Agent at Foundever Poland (Oura Ring), where I:
   - Apply analytical thinking to identify patterns and optimize workflows
   - Collaborate with logistics, finance, and IT teams on data-driven solutions
   - **Achieved 20% reduction in chargebacks** through process analysis and optimization
   - Train and mentor team members on best practices and quality standards
 
-- 🚀 **Career Transition:** Moving from business operations into data analysis to leverage my:
+-  **Career Transition:** Moving from business operations into data analysis to leverage my:
   - Real-world experience identifying business problems
   - Technical skills in SQL, Excel, and Python
   - Proven ability to translate data insights into operational improvements
 
-- 🔭 **Currently building:** Data analysis portfolio projects showcasing SQL database management, Excel dashboards, and business intelligence
-- 📚 **Currently learning:** Power BI and advanced Python for data analysis
-- 🌍 **Location:** Poland 🇵🇱 | Open to remote opportunities worldwide
-- 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/chido-nicole-tembo-474793353) | chidonicole4@gmail.com
+-  **Currently building:** Data analysis portfolio projects showcasing SQL database management, Excel dashboards, and business intelligence
+-  **Currently learning:** Power BI and advanced Python for data analysis
+-  **Location:** Poland 🇵🇱 | Open to remote opportunities worldwide
+-  **Contact:** [LinkedIn](https://www.linkedin.com/in/chido-nicole-tembo-474793353) | chidonicole4@gmail.com
 
 ---
 
@@ -41,10 +41,10 @@ I'm not just a technical person who knows the tools—I understand the **busines
 ### 💻 Technical Skills
 
 **Data & Analysis:**
-- 📊 **SQL (MySQL)** - Database design, complex queries, joins, aggregations, data extraction
-- 📈 **Excel (Advanced)** - Formulas, dashboards, pivot tables, data visualization, KPI tracking
-- 🐍 **Python** - Data manipulation, scripting, process automation (Python Essentials 1 & 2 Certified)
-- 📉 **Power BI** - Currently learning for business intelligence reporting
+-  **SQL (MySQL)** - Database design, complex queries, joins, aggregations, data extraction
+-  **Excel (Advanced)** - Formulas, dashboards, pivot tables, data visualization, KPI tracking
+-  **Python** - Data manipulation, scripting, process automation (Python Essentials 1 & 2 Certified)
+-  **Power BI** - Currently learning for business intelligence reporting
 
 **Programming & Development:**
 - Python (Certified)
@@ -70,7 +70,7 @@ I'm not just a technical person who knows the tools—I understand the **busines
 
 ### 🚀 Featured Projects
 
-#### 📊 [Sales Performance Analysis Dashboard](https://github.com/Chidoso22/sales-analysis-project)
+####  [Sales Performance Analysis Dashboard](https://github.com/Chidoso22/sales-analysis-project)
 **End-to-end data analysis project demonstrating SQL-to-Excel business intelligence workflow**
 
 Built a comprehensive sales analysis system showcasing the complete data analysis pipeline:
@@ -101,10 +101,10 @@ Built a comprehensive sales analysis system showcasing the complete data analysi
 ### 💼 Professional Experience Highlights
 
 **Data-Driven Achievements:**
-- 📉 Reduced chargebacks by **20%** through systematic analysis and workflow optimization
-- 📈 Improved customer satisfaction by **15%** through data-informed process improvements
-- 🎯 Achieved **95% resolution rate** by identifying patterns in customer issues
-- 🤝 Trained and mentored team members on analytical approaches to problem-solving
+-  Reduced chargebacks by **20%** through systematic analysis and workflow optimization
+-  Improved customer satisfaction by **15%** through data-informed process improvements
+-  Achieved **95% resolution rate** by identifying patterns in customer issues
+-  Trained and mentored team members on analytical approaches to problem-solving
 
 **Transferable Skills for Data Analysis:**
 - Identifying trends and patterns in operational data
@@ -127,12 +127,12 @@ The John Paul II Catholic University of Lublin, Poland | 2022-2025
 
 ### 📌 Areas of Interest
 
-- 📊 Business Intelligence & Data Analytics
-- 📈 Data Visualization & Interactive Dashboards  
-- 💡 Business Process Optimization through Data
-- 🔍 SQL Database Management & Query Optimization
-- 📉 Customer Analytics & Behavioral Analysis
-- 🎯 KPI Tracking & Performance Metrics
+-  Business Intelligence & Data Analytics
+-  Data Visualization & Interactive Dashboards  
+-  Business Process Optimization through Data
+-  SQL Database Management & Query Optimization
+-  Customer Analytics & Behavioral Analysis
+-  KPI Tracking & Performance Metrics
 
 ---
 
@@ -170,10 +170,10 @@ The John Paul II Catholic University of Lublin, Poland | 2022-2025
 I'm actively seeking **Data Analyst, Business Intelligence Analyst, or Junior Data Analyst** opportunities where I can apply my unique blend of business operations experience and technical skills.
 
 Open to discussing:
-- 💼 Job opportunities (full-time, contract, remote)
-- 🤝 Collaboration on data analysis projects
-- 💡 Insights on transitioning from operations to data analytics
-- 📊 Best practices in business intelligence and data visualization
+-  Job opportunities (full-time, contract, remote)
+-  Collaboration on data analysis projects
+-  Insights on transitioning from operations to data analytics
+-  Best practices in business intelligence and data visualization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chido-nicole-tembo-474793353)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chidonicole4@gmail.com)
