@@ -70,7 +70,7 @@ I'm not just a technical person who knows the tools—I understand the **busines
 
 ### 🚀 Featured Projects
 
-####  [Sales Performance Analysis Dashboard](https://github.com/Chidoso22/sales-analysis-project)
+####  [Sales Performance Analysis Dashboard](https://github.com/Chidoo22/sales-analysis-project)
 **End-to-end data analysis project demonstrating SQL-to-Excel business intelligence workflow**
 
 Built a comprehensive sales analysis system showcasing the complete data analysis pipeline:
@@ -94,7 +94,7 @@ Built a comprehensive sales analysis system showcasing the complete data analysi
 **Technical Stack:** SQL, MySQL, Excel, Data Visualization, Business Intelligence  
 **Skills Demonstrated:** Database design, query optimization, statistical analysis, dashboard development, technical documentation
 
-*👉 [View full project with documentation and screenshots](https://github.com/Chidoso22/sales-analysis-project)*
+*👉 [View full project with documentation and screenshots](https://github.com/Chidoo22/sales-analysis-project)*
 
 ---
 
@@ -167,7 +167,7 @@ Experienced working across departments (logistics, finance, IT) means I can gath
 
 ### 📊 GitHub Stats
 
-![Chido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidoso22&show_icons=true&theme=default)
+![Chido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidoo22&show_icons=true&theme=default)
 
 ---
 
