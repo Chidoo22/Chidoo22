@@ -153,15 +153,6 @@ Currently mastering Power BI; Python certified; building portfolio projects. I w
 6. Team Collaboration → Seamless Integration & Cross-Department Value
 Experienced working across departments (logistics, finance, IT) means I can gather requirements from different teams, understand their unique needs, and deliver analysis that serves multiple stakeholders—maximizing your ROI on the data analyst role.
 
-**I bring a unique combination:**
-
-1. **Real Business Context** - I've worked in operations and understand what businesses actually need from their data
-2. **Technical Skills** - Proficient in SQL, Excel, Python with demonstrable projects
-3. **Proven Impact** - Track record of using analysis to achieve measurable improvements (20% chargeback reduction)
-4. **Communication Skills** - Experience explaining insights to non-technical stakeholders
-5. **Fast Learner** - Currently mastering Power BI; Python certified; building portfolio projects
-6. **Team Collaboration** - Experienced working across departments (logistics, finance, IT)
-
 ---
 
 ### 💬 Languages
