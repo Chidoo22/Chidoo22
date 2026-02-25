@@ -167,7 +167,7 @@ Experienced working across departments (logistics, finance, IT) means I can gath
 
 ### 📊 GitHub Stats
 
-![Chido's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chidoo22&show_icons=true&theme=default)
+*Building my GitHub portfolio - check back soon for more projects!* 🚀
 
 ---
 
