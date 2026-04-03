@@ -98,6 +98,24 @@ Built a comprehensive sales analysis system showcasing the complete data analysi
 
 ---
 
+#### 🏃 [Chidoo Fitness Trends — Personal Health Dashboard](https://github.com/Chidoo22/chidoo-fitness-trends)
+**Interactive fitness analytics dashboard built from real Apple Health data**
+
+Built a fully custom personal health dashboard that transforms raw Apple Health exports into beautiful, interactive visualisations:
+
+- **Data Pipeline:** Python script to convert Apple Health iPhone exports (ZIP → XML → JSON) into dashboard-ready data
+- **Interactive Charts:** 6 tabs of Plotly.js visualisations including steps, heart rate, active calories, workout types, weight model, and predictive analytics
+- **AI Insights Engine:** On-demand AI analysis panel for each metric with health score, streak tracking, and gamified achievement badges
+- **Smart Filtering:** Date range filters (30 days → 5 years) with automatic trend comparisons vs previous period
+- **Weight Prediction Model:** ML-based weight reconstruction and 6-month projection using activity and calorie data
+
+**Technical Stack:** HTML, JavaScript, Plotly.js, Python, Apple Health API, CSS (Glassmorphic UI)  
+**Skills Demonstrated:** Data pipeline engineering, interactive data visualisation, front-end development, health data analysis, predictive modelling
+
+*👉 [View the dashboard project](https://github.com/Chidoo22/chidoo-fitness-trends)*
+
+---
+
 ### 💼 Professional Experience Highlights
 
 **Data-Driven Achievements:**
