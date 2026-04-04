@@ -154,23 +154,6 @@ The John Paul II Catholic University of Lublin, Poland | 2022-2025
 
 ---
 
-### 🌟 Why Hire Me for Data Analyst Roles?
-
-I bring a unique combination that delivers immediate business value:
-
-1. Real Business Context → Better Analysis from Day One
-I've worked in operations and understand what businesses actually need from their data, meaning I can identify the right questions to ask and deliver insights that actually drive decisions—not just pretty charts that sit unused.
-2. Technical Skills with Business Application → Faster Time to Value
-Proficient in SQL, Excel, and Python with demonstrable projects. I don't need months to learn your business—I can start extracting actionable insights immediately while understanding how they impact your bottom line.
-3. Proven Impact → Cost Savings & Revenue Protection
-Track record of using analysis to achieve measurable improvements (20% chargeback reduction = direct cost savings). I know how to translate data insights into operational improvements that show up in your financial results.
-4. Communication Skills → Bridge Between Data & Business Teams
-Experience explaining insights to non-technical stakeholders means your executives and managers will actually understand and act on the analysis I provide. No "technical speak" that creates confusion—just clear, actionable recommendations.
-5. Fast Learner → Adapts to Your Tech Stack Quickly
-Currently mastering Power BI; Python certified; building portfolio projects. I won't slow down your team while learning tools—I pick up new technologies quickly and start contributing while I learn.
-6. Team Collaboration → Seamless Integration & Cross-Department Value
-Experienced working across departments (logistics, finance, IT) means I can gather requirements from different teams, understand their unique needs, and deliver analysis that serves multiple stakeholders—maximizing your ROI on the data analyst role.
-
 ---
 
 ### 💬 Languages
